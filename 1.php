@@ -187,7 +187,7 @@ $(window).load(function(){
           </div>   
       <br><br>
   
-  <!--==============================footer=================================-->
+  <!--==============================footer===============================-->
   <footer>
     <p>© 2019 Fitness World</p>
     <p>Website by <a target="_blank" href="#" class="link">IS Boys</a></p>
